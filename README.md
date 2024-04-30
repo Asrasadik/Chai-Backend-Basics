@@ -44,4 +44,6 @@ npm start will run "node index.js" command which we added it in package.json
     A[Computer] --> B[Server];
     B --> A;
 ```
+3. Bundlers: bundles all files and converts into such a way that browser can understand(i.e html,css,js)
+
 
