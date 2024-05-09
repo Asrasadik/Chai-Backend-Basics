@@ -21,15 +21,18 @@ $npm run start
 or
 $node index.js
 ```
+
 4. Install Express: https://expressjs.com/
 
 ```
 $ npm install express
 ```
+
 5. DOTENV: https://www.npmjs.com/package/dotenv
-to store sensitive information such as database name, password etc.
+   to store sensitive information such as database name, password etc.
+
 ```
-npm install dotenv 
+npm install dotenv
 ```
 
 npm start will run "node index.js" command which we added it in package.json
@@ -44,6 +47,9 @@ npm start will run "node index.js" command which we added it in package.json
     A[Computer] --> B[Server];
     B --> A;
 ```
+
 3. Bundlers: bundles all files and converts into such a way that browser can understand(i.e html,css,js)
 
+Proxy: vite.config.js
 
+here '/api/jokes' will append automitically in url while making request from axios. also proxy will be added to the request will be coming from the only url which is mentioned in vite.config.js. Server will think that origin of request is from url mentioned in vite.config.js.
