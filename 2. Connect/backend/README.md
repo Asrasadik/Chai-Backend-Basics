@@ -1,5 +1,1 @@
-### CORS
-
-```
-
-```
+used middleware with build folder (dist)

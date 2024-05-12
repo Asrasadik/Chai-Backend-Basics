@@ -3,6 +3,8 @@
 ## Set-up Required:
 
 1. Node Installation: https://nodejs.org/en
+   Install Node in Kali Linux: NVM setup---> https://letscodepare.com/blog/how-to-install-nvm-node-version-manager-on-linux
+
 2. Initializing an Application from node package manager: this will generate package.json file
 
 ```
