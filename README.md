@@ -1,4 +1,4 @@
-# Chai-Backend
+# Chai-Backend-Basics
 
 ## Set-up Required:
 
