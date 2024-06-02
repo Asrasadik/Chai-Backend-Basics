@@ -56,3 +56,6 @@ npm start will run "node index.js" command which we added it in package.json
 Proxy: vite.config.js
 
 here '/api/jokes' will append automitically in url while making request from axios. also proxy will be added to the request will be coming from the only url which is mentioned in vite.config.js. Server will think that origin of request is from url mentioned in vite.config.js.
+
+## Open Points:
+need to use proxy in github codespaces 
